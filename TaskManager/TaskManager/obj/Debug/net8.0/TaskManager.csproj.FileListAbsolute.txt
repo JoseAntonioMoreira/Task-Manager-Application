@@ -1,0 +1,14 @@
+C:\Users\josea\source\repos\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.exe
+C:\Users\josea\source\repos\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.deps.json
+C:\Users\josea\source\repos\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.runtimeconfig.json
+C:\Users\josea\source\repos\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.dll
+C:\Users\josea\source\repos\TaskManager\TaskManager\bin\Debug\net8.0\TaskManager.pdb
+C:\Users\josea\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\josea\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfoInputs.cache
+C:\Users\josea\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.AssemblyInfo.cs
+C:\Users\josea\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.csproj.CoreCompileInputs.cache
+C:\Users\josea\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.dll
+C:\Users\josea\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\refint\TaskManager.dll
+C:\Users\josea\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.pdb
+C:\Users\josea\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\TaskManager.genruntimeconfig.cache
+C:\Users\josea\source\repos\TaskManager\TaskManager\obj\Debug\net8.0\ref\TaskManager.dll
