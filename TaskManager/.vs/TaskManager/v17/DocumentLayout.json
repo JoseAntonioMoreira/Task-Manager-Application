@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\josea\\source\\repos\\TaskManager\\",
+  "WorkspaceRootPath": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|c:\\users\\josea\\source\\repos\\taskmanager\\taskmanager\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|c:\\users\\josea\\documents\\github\\task-manager-application\\taskmanager\\taskmanager\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|c:\\users\\josea\\source\\repos\\taskmanager\\taskmanager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|c:\\users\\josea\\documents\\github\\task-manager-application\\taskmanager\\taskmanager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|c:\\users\\josea\\source\\repos\\taskmanager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|c:\\users\\josea\\documents\\github\\task-manager-application\\taskmanager\\taskmanager\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|c:\\users\\josea\\source\\repos\\taskmanager\\taskmanager\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|c:\\users\\josea\\documents\\github\\task-manager-application\\taskmanager\\taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,11 +32,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "WorkTask.cs",
-              "DocumentMoniker": "C:\\Users\\josea\\source\\repos\\TaskManager\\TaskManager\\WorkTask.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\TaskManager\\WorkTask.cs",
               "RelativeDocumentMoniker": "TaskManager\\WorkTask.cs",
-              "ToolTip": "C:\\Users\\josea\\source\\repos\\TaskManager\\TaskManager\\WorkTask.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\TaskManager\\WorkTask.cs",
               "RelativeToolTip": "TaskManager\\WorkTask.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABZAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDYAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T12:11:38.2Z",
               "EditorCaption": ""
@@ -45,37 +45,36 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Task.cs",
-              "DocumentMoniker": "C:\\Users\\josea\\source\\repos\\TaskManager\\TaskManager\\Task.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\TaskManager\\Task.cs",
               "RelativeDocumentMoniker": "TaskManager\\Task.cs",
-              "ToolTip": "C:\\Users\\josea\\source\\repos\\TaskManager\\TaskManager\\Task.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\TaskManager\\Task.cs",
               "RelativeToolTip": "TaskManager\\Task.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T11:31:03.561Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\josea\\source\\repos\\TaskManager\\TaskManager\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\TaskManager\\Program.cs",
               "RelativeDocumentMoniker": "TaskManager\\Program.cs",
-              "ToolTip": "C:\\Users\\josea\\source\\repos\\TaskManager\\TaskManager\\Program.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\TaskManager\\Program.cs",
               "RelativeToolTip": "TaskManager\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T11:28:54.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T11:28:54.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Enums.cs",
-              "DocumentMoniker": "C:\\Users\\josea\\source\\repos\\TaskManager\\TaskManager\\Enums.cs",
+              "DocumentMoniker": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\TaskManager\\Enums.cs",
               "RelativeDocumentMoniker": "TaskManager\\Enums.cs",
-              "ToolTip": "C:\\Users\\josea\\source\\repos\\TaskManager\\TaskManager\\Enums.cs",
+              "ToolTip": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\TaskManager\\Enums.cs",
               "RelativeToolTip": "TaskManager\\Enums.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T12:14:11.104Z",
               "EditorCaption": ""
