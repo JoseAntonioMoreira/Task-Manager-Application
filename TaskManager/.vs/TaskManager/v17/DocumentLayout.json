@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|c:\\users\\josea\\documents\\github\\task-manager-application\\taskmanager\\taskmanager\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|c:\\users\\josea\\documents\\github\\task-manager-application\\taskmanager\\taskmanager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|c:\\users\\josea\\documents\\github\\task-manager-application\\taskmanager\\taskmanager\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|solutionrelative:taskmanager\\worktask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84957AC7-72D1-47C0-ADF5-E87306FC2706}|TaskManager\\TaskManager.csproj|c:\\users\\josea\\documents\\github\\task-manager-application\\taskmanager\\taskmanager\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,30 +26,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "WorkTask.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\TaskManager\\WorkTask.cs",
               "RelativeDocumentMoniker": "TaskManager\\WorkTask.cs",
               "ToolTip": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\TaskManager\\WorkTask.cs",
               "RelativeToolTip": "TaskManager\\WorkTask.cs",
-              "ViewState": "AQIAAC4AAAAAAAAAAAAkwDYAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T12:11:38.2Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Task.cs",
               "DocumentMoniker": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\TaskManager\\Task.cs",
               "RelativeDocumentMoniker": "TaskManager\\Task.cs",
               "ToolTip": "C:\\Users\\josea\\Documents\\GitHub\\Task-Manager-Application\\TaskManager\\TaskManager\\Task.cs",
               "RelativeToolTip": "TaskManager\\Task.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABBAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-21T11:31:03.561Z",
               "EditorCaption": ""
@@ -76,8 +76,7 @@
               "RelativeToolTip": "TaskManager\\Enums.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T12:14:11.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-21T12:14:11.104Z"
             }
           ]
         }

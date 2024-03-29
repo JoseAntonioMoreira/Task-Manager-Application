@@ -1,18 +1,11 @@
 ﻿namespace TaskManager
 {
-    public abstract class Task
+    public abstract class Task(string title, string description, DateTime creationDate)
     {
-        public string Title { get; set; }
-        public string Description { get; set; }
-        public DateTime CreationDate { get; }
+        public string Title { get; set; } = title;
+        public string Description { get; set; } = description;
+        public DateTime CreationDate { get; } = creationDate;
 
-        public Task(string title, string description, DateTime creationDate)
-        {
-            Title = title;
-            Description = description;
-            CreationDate = creationDate;
-        }
-
-        public void UpdateTask() { }
+        //public void UpdateTask() { } this is for reference only
     }
 }
